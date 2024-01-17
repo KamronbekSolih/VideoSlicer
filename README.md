@@ -37,4 +37,4 @@ If your videos are in a different format, you may need to adjust the script acco
 Note
 Ensure that the output directory exists before running the script. If it doesn't exist, the script will attempt to create it.
 
-License
+
